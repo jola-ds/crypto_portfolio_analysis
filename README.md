@@ -18,8 +18,8 @@ A Python-based system for fetching, processing, and analysing cryptocurrency mar
 ```txt
 crypto-analysis/
 │
-├── crypto_pipeline.py          # Data fetching and processing pipeline
-├── crypto_analysis.ipynb       # Step-by-step analysis notebook
+├── data_pipeline.py          # Data fetching and processing pipeline
+├── comparative_analysis.ipynb       # Step-by-step analysis notebook
 ├── README.md                   # This file
 ├── requirements.txt            # Python dependencies
 ```
